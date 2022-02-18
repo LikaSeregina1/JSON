@@ -1,4 +1,7 @@
-1}"Серегина Анжелика Владимировна"
-2}27
-3}1 
-4}150
+
+	
+        "name" : "Seregina_Anzhelika_Vladimirovna",
+	"age" : 27,
+        "animals" : 2,
+	"salary" : 150}
+ 
