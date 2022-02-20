@@ -1,0 +1,14 @@
+{ "JSONSKKLS" :
+  {
+     "key" : "value",
+     "key1" : "value1"
+},
+   "array" : [
+	   "value",
+	   "value"
+   ],
+   "value" : "true",
+   "value" : "null"
+}
+	
+
